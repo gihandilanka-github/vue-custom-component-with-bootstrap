@@ -1,0 +1,50 @@
+{
+  "name": "webcomponents",
+  "version": "1.0.0",
+  "description": "webcomponents",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "mix",
+    "development": "development",
+    "watch": "mix watch",
+    "watch-poll": "mix watch -- --watch-options-poll=1000",
+    "hot": "mix watch --hot",
+    "prod": "production",
+    "production": "mix --production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Froxz/webcomponents.git"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "css-loader": "^3.6.0",
+    "document-register-element": "^1.14.10",
+    "laravel-mix": "https://github.com/Froxz/laravel-mix.git#custom-latest",
+    "leaflet": "^1.7.1",
+    "postcss": "^8.2.2",
+    "sass": "^1.32.0",
+    "sass-loader": "^10.1.0",
+    "vue": "^2.6.12",
+    "vue-custom-element": "^3.2.14",
+    "vue-loader": "^15.9.6",
+    "vue-router": "^3.5.1",
+    "vue-template-compiler": "^2.6.12",
+    "vue2-leaflet": "^2.7.0",
+    "vue2-leaflet-draw-toolbar": "^0.1.1",
+    "vue2-leaflet-editablecirclemarker": "^1.0.5",
+    "vue2-leaflet-googlemutant": "^2.0.0",
+    "vuex": "^3.6.2"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Froxz/webcomponents/issues"
+  },
+  "homepage": "https://github.com/Froxz/webcomponents#readme",
+  "devDependencies": {
+    "resolve-url-loader": "^3.1.0"
+  }
+}
