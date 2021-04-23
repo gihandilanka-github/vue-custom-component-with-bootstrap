@@ -10,5 +10,7 @@ npm run watch
 
 ```
 
-Then open the `index.html` file located in **project root folder** using any browser.
+Then open the `index.html` file located in **project root folder** using any browser.<br>
+
 See the attached screenshot below.
+![alt text](https://github.com/gihandilanka-github/vue-custom-component-with-bootstrap/blob/main/Vue-custom-component-with-bootstrap.png?raw=true)
