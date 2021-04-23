@@ -22,6 +22,7 @@
     "bootstrap-vue": "^2.21.2",
     "css-loader": "^3.6.0",
     "document-register-element": "^1.14.10",
+    "jquery": "^3.6.0",
     "laravel-mix": "https://github.com/Froxz/laravel-mix.git#custom-latest",
     "leaflet": "^1.7.1",
     "postcss": "^8.2.2",
