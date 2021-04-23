@@ -1,6 +1,6 @@
 vue-custom-component-with-bootstrap
 ===================================
-This is an example for vue custom component with bootstrap styles in shadow dom.
+This is an example for vue custom component with **bootstrap** styles in shadow dom.
 
 <h3>Instructions<h3>
 
